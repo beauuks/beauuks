@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Beau
+### 👋 Hi, I’m Beau
 - 👀 I’m a data and business analytics student
 - 🌱 I’m currently learning data engineering
 
