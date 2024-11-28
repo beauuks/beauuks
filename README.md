@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Beau
 - 👀 I’m a data and business analytics student
-- 🌱 I’m currently learning data engineering
+- 🌱 I’m currently learning data engineering & software development
 
 <!---
 beauuks/beauuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
